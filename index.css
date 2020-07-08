@@ -1,0 +1,143 @@
+
+.sec1{
+    width: 100%;
+    height: 576px;
+    background-color: #F0FFF0;
+}
+.logo{
+    width: 200px;
+}
+.nav-item{
+    margin: auto;
+    margin-right: 40px;
+}
+.button{
+    color: white;
+    font-size: 25px;
+    padding: 4px 28px;
+    width: auto;
+    height: auto;
+    background-color: #21B573;
+    border: none;
+    border-radius: 50px;
+}
+.sec1-text button{
+    margin-left: 20px;
+}
+.sec1-text p{
+    color: #6C6B6B;
+    font-weight: 600;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: 16px;
+    padding-bottom: 30px;
+}
+.orange{
+    color: #FD511A !important;
+    padding-bottom: 0px !important;
+}
+.sec1-text h1{
+    font-weight: bolder;
+    margin-left: 20px;
+}
+.sec1-text h1 span{
+    color:  #21B573;
+    
+}
+.width{
+    width: 80%;
+    
+}
+.sec2{
+    width: 100%;
+    height: 450px;
+}
+.my-card{
+    width: 100%;
+    height: 270px;
+    background-color: #F0FFF0;
+    padding: 40px 30px;
+    border-radius: 10px;
+    margin: 60px 40px;
+    transition: .5s;
+}
+.my-card:hover{
+    transform: scale(1.2);
+    background-color: white;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.my-card img{
+    height: 40%;
+}
+.my-card h4{
+    margin-top: 30px;
+    color: #413960;
+}
+.my-card p{
+    color: #585859;
+}
+
+.sec3{
+    width: 100%;
+    height: 700px;
+}
+
+.my-card-2{
+    width: 350px;
+    height: 483px;
+    background-color: white;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+    margin: 60px 30px;
+    padding: 20px;
+}
+.my-card-2 img{
+    width: 100%;
+    height: 50%;
+    margin-bottom: 20px;
+}
+.my-card-2 p{
+    font-weight: 600;
+    color: #585859;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.cardfooter{
+    margin: 40px 20px 0px 20px;
+    height: 10%;
+    color: #585859;
+}
+.cardfooter img{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+.sec4{
+    height: 350px;
+}
+.img-width{
+    width: 40%;
+    float: right;
+}
+.img-para{
+    font-size: 20px; 
+    width: 80%;
+}
+.footer-sec{
+    padding: 60px 0px 20px 0px;
+    color: white;
+    width: 100%;
+    height: 400px;
+    background-color: #282531;
+}
+ul{
+    margin: 0px 30px;
+    list-style: none;
+}
+.footer-sec ul li a{
+    text-decoration: none;
+    color: white;
+}
+.foot-text{
+    margin-top: 100px;
+}
